@@ -1,0 +1,10 @@
+C:\Users\catalin.rus\source\repos\TestConsole\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\catalin.rus\source\repos\TestConsole\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\catalin.rus\source\repos\TestConsole\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\catalin.rus\source\repos\TestConsole\TestConsole\bin\Debug\Models.dll
+C:\Users\catalin.rus\source\repos\TestConsole\TestConsole\bin\Debug\Models.pdb
+C:\Users\catalin.rus\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.csprojAssemblyReference.cache
+C:\Users\catalin.rus\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\catalin.rus\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.csproj.CopyComplete
+C:\Users\catalin.rus\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\catalin.rus\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.pdb
