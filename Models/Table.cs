@@ -21,7 +21,7 @@ namespace Models
             TableName = tableTitle;
         }
 
-        public override void Print()
+        public void Print()
         {
             Console.WriteLine($"Table name: {_tableName}");
         }

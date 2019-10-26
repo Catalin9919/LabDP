@@ -17,21 +17,31 @@ namespace Models
             set { _bookName = value; }
         }
 
-        private List<Chapter> _chapters;
+        //private List<Chapter> _chapters;
 
-        public List<Chapter> Chapters
+        //public List<Chapter> Chapters
+        //{
+        //    get { return _chapters; }
+        //    set { _chapters = value; }
+        //}
+
+        private List<Element> _content;
+
+        public List<Element> Content
         {
-            get { return _chapters; }
-            set { _chapters = value; }
+            get { return _content; }
+            set { _content = value; }
         }
 
-        private Author _author;
 
-        public Author Author
+        private List<Author> _authors;
+
+        public List<Author> Authors
         {
-            get { return _author; }
-            set { _author = value; }
+            get { return _authors; }
+            set { _authors = value; }
         }
+
 
         public Book(string bookName):this()
         {
@@ -40,24 +50,47 @@ namespace Models
 
         public Book()
         {
-            Chapters = new List<Chapter>();
+            //Chapters = new List<Chapter>();
+            _content = new List<Element>();
+            Authors = new List<Author>();
         }
 
         public void AddAuthor(Author currentAuthor)
         {
-            Author = currentAuthor;
+            Authors.Add(currentAuthor);
         }
 
-        public int CreateChapter(string chapterName)
+        public void AddContent(Element element)
         {
-            Chapter newChapter = new Chapter(chapterName);
-            Chapters.Add(newChapter);
-            return Chapters.Count;
+            _content.Add(element);
         }
-        
-        public Chapter GetChapter(int chapterIndex)
+
+        public void Print()
         {
-            return Chapters.ElementAt(chapterIndex-1);
+
+            Console.WriteLine($"Book Title: {_bookName}");
+            foreach (var author in Authors)
+            {
+                Console.WriteLine($"Authors: {author.AuthorName}");
+            }
+
+            foreach (var element in Content)
+            {
+                element.Print();
+            }
+
         }
+
+        //public int CreateChapter(string chapterName)
+        //{
+        //    Chapter newChapter = new Chapter(chapterName);
+        //    Chapters.Add(newChapter);
+        //    return Chapters.Count;
+        //}
+
+        //public Chapter GetChapter(int chapterIndex)
+        //{
+        //    return Chapters.ElementAt(chapterIndex-1);
+        //}
     }
 }

@@ -59,9 +59,9 @@ namespace Models
             return Paragraphs.Count;
         }
 
-        public Paragraph GetParagraph(int indexOfParagraph)
+        public Paragraph GetParagraph(int paragraphIndex)
         {
-            return Paragraphs.ElementAt(indexOfParagraph - 1);
+            return Paragraphs.ElementAt(paragraphIndex-1);
         }
 
         public int CreateImage(string imageName)
@@ -71,9 +71,9 @@ namespace Models
             return Images.Count;
         }
 
-        public Image GetImage(int indexOfImage)
+        public Image GetImage(int imageIndex)
         {
-            return Images.ElementAt(indexOfImage);
+            return Images.ElementAt(imageIndex-1);
         }
 
         public int CreateTable(string tableName)
@@ -83,9 +83,9 @@ namespace Models
             return Tables.Count;
         }
 
-        public Table GetTable(int indexOfTable)
+        public Table GetTable(int tableIndex)
         {
-            return Tables.ElementAt(indexOfTable);
+            return Tables.ElementAt(tableIndex-1);
         }
     }
 }

@@ -44,9 +44,11 @@
     <Compile Include="Author.cs" />
     <Compile Include="Book.cs" />
     <Compile Include="Chapter.cs" />
+    <Compile Include="Element.cs" />
     <Compile Include="Image.cs" />
     <Compile Include="Paragraph.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Section.cs" />
     <Compile Include="SubChapter.cs" />
     <Compile Include="Table.cs" />
   </ItemGroup>

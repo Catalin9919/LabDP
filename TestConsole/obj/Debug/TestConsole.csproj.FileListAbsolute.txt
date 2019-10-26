@@ -8,3 +8,12 @@ C:\Users\catalin.rus\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.
 C:\Users\catalin.rus\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.csproj.CopyComplete
 C:\Users\catalin.rus\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.exe
 C:\Users\catalin.rus\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.pdb
+C:\Others\C#Projects\TestConsole\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Others\C#Projects\TestConsole\TestConsole\bin\Debug\TestConsole.exe
+C:\Others\C#Projects\TestConsole\TestConsole\bin\Debug\TestConsole.pdb
+C:\Others\C#Projects\TestConsole\TestConsole\bin\Debug\Models.dll
+C:\Others\C#Projects\TestConsole\TestConsole\bin\Debug\Models.pdb
+C:\Others\C#Projects\TestConsole\TestConsole\obj\Debug\TestConsole.csprojAssemblyReference.cache
+C:\Others\C#Projects\TestConsole\TestConsole\obj\Debug\TestConsole.csproj.CopyComplete
+C:\Others\C#Projects\TestConsole\TestConsole\obj\Debug\TestConsole.exe
+C:\Others\C#Projects\TestConsole\TestConsole\obj\Debug\TestConsole.pdb

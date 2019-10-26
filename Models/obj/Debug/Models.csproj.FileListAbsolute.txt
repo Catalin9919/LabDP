@@ -4,3 +4,8 @@ C:\Users\catalin.rus\source\repos\TestConsole\Models\obj\Debug\Models.csprojAsse
 C:\Users\catalin.rus\source\repos\TestConsole\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
 C:\Users\catalin.rus\source\repos\TestConsole\Models\obj\Debug\Models.dll
 C:\Users\catalin.rus\source\repos\TestConsole\Models\obj\Debug\Models.pdb
+C:\Others\C#Projects\TestConsole\Models\bin\Debug\Models.dll
+C:\Others\C#Projects\TestConsole\Models\bin\Debug\Models.pdb
+C:\Others\C#Projects\TestConsole\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Others\C#Projects\TestConsole\Models\obj\Debug\Models.dll
+C:\Others\C#Projects\TestConsole\Models\obj\Debug\Models.pdb

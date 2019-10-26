@@ -21,7 +21,7 @@ namespace Models
             ParagraphName = paragraphTitle;
         }
 
-        public override void Print()
+        public void Print()
         {
             Console.WriteLine($"Paragraph name: {_paragraphName}");
         }

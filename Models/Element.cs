@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace Models
 {
-    public abstract class Element
+    public interface Element
     {
-
-        public abstract void Print();
+        void Print();
 
     }
 }

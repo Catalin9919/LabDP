@@ -24,9 +24,14 @@ namespace Models
             set { subChapters = value; }
         }
         
-        public Chapter(string chaptTitle)
+        public Chapter(string chaptTitle):this()
         {
             ChapterTitle = chaptTitle;
+        }
+
+        public Chapter()
+        {
+            SubChapters = new List<SubChapter>();
         }
 
         public SubChapter GetSubChapter(int indexOfSubChapter)

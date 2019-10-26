@@ -22,7 +22,7 @@ namespace Models
             ImageName = imageTitle;
         }
 
-        public override void Print()
+        public void Print()
         {
             Console.WriteLine($"Image name: {_imageName}");
         }
