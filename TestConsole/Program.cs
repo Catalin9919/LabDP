@@ -59,9 +59,9 @@ namespace TestConsole
             #region Threading+Proxy_Pattern
 
             long StartTime = DateTime.Now.Ticks;
-            Image img1 = new Image("Image 1");
-            Image img2 = new Image("Image 2");
-            Image img3 = new Image("Image 3");
+            ImageProxy img1 = new ImageProxy("Image 1");
+            ImageProxy img2 = new ImageProxy("Image 2");
+            ImageProxy img3 = new ImageProxy("Image 3");
 
             Section section1 = new Section("Section 1");
             section1.AddElement(img1);
