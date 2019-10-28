@@ -9,3 +9,9 @@ C:\Others\C#Projects\TestConsole\Models\bin\Debug\Models.pdb
 C:\Others\C#Projects\TestConsole\Models\obj\Debug\Models.csprojAssemblyReference.cache
 C:\Others\C#Projects\TestConsole\Models\obj\Debug\Models.dll
 C:\Others\C#Projects\TestConsole\Models\obj\Debug\Models.pdb
+D:\OrganizedProjects\LabDP\Models\bin\Debug\Models.dll
+D:\OrganizedProjects\LabDP\Models\bin\Debug\Models.pdb
+D:\OrganizedProjects\LabDP\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\OrganizedProjects\LabDP\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\OrganizedProjects\LabDP\Models\obj\Debug\Models.dll
+D:\OrganizedProjects\LabDP\Models\obj\Debug\Models.pdb
