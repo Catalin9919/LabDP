@@ -8,8 +8,8 @@ namespace Models
 {
     public class Paragraph:Element
     {
+        private AlignStrategy _alignStrategy;
         private string _paragraphName;
-
         public string ParagraphName
         {
             get { return _paragraphName; }
@@ -24,6 +24,20 @@ namespace Models
         public void Print()
         {
             Console.WriteLine($"Paragraph name: {_paragraphName}");
+            if (_alignStrategy == null)
+            {
+                Console.WriteLine(_paragraphName);
+            }
+            else
+            {
+                _alignStrategy.Print(_paragraphName);
+            }
         }
+
+        public void SetAlignStrategy(AlignStrategy strategy)
+        {
+            _alignStrategy = strategy;
+        }
+
     }
 }
