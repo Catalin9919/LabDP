@@ -17,13 +17,3 @@ C:\Others\C#Projects\TestConsole\TestConsole\obj\Debug\TestConsole.csprojAssembl
 C:\Others\C#Projects\TestConsole\TestConsole\obj\Debug\TestConsole.csproj.CopyComplete
 C:\Others\C#Projects\TestConsole\TestConsole\obj\Debug\TestConsole.exe
 C:\Others\C#Projects\TestConsole\TestConsole\obj\Debug\TestConsole.pdb
-D:\OrganizedProjects\LabDP\TestConsole\bin\Debug\TestConsole.exe.config
-D:\OrganizedProjects\LabDP\TestConsole\bin\Debug\TestConsole.exe
-D:\OrganizedProjects\LabDP\TestConsole\bin\Debug\TestConsole.pdb
-D:\OrganizedProjects\LabDP\TestConsole\bin\Debug\Models.dll
-D:\OrganizedProjects\LabDP\TestConsole\bin\Debug\Models.pdb
-D:\OrganizedProjects\LabDP\TestConsole\obj\Debug\TestConsole.csprojAssemblyReference.cache
-D:\OrganizedProjects\LabDP\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
-D:\OrganizedProjects\LabDP\TestConsole\obj\Debug\TestConsole.csproj.CopyComplete
-D:\OrganizedProjects\LabDP\TestConsole\obj\Debug\TestConsole.exe
-D:\OrganizedProjects\LabDP\TestConsole\obj\Debug\TestConsole.pdb
